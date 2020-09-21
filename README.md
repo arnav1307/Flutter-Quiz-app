@@ -1,4 +1,4 @@
-# quizpic_app
+# Quiz_app
 
 A new Flutter application.
 

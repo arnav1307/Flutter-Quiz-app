@@ -22,3 +22,8 @@ So basically in this app what I have learned and added are the following things:
       2.  Creating a model with Classes and Lists(for questions)
       3.  Snackbar as you can see appears when you click on True or False
       4.  Raised Buttons
+      
+      
+      
+      
+![](Screenshot%20(36).png)      
